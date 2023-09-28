@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ortima-fcc03",
+  "private_key_id": "1e9dfb5da0fe816ba8e7ecbde4df665630796c2b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVhKxbqplRv7Ja\n9aDXJvEvx/SQrqQgJmfppNUTt1GFBl0R5wN3kdu5LUc58dhg0I0wEGcMyjmcvElf\nbuXPB+h0htvq8K4EZoILsy6A+atQ3tcrjUYAvFsMzvVMsM2XL5vZsfRwDIqoF3cR\nMvmaE51dP+edx+NTKPByIgbh9Gmjf0xgRBRSzvgwJarIi6rxCO3E8SnaQoLYNjBV\nMBGcZGJQ8I/kCVvqh5pQdivrA8bllX2TWKEQvVXHu/kiYR6fM3a/O68nX5RulVB0\nmp4WWKsUf0Hl6G7+W6jPJRibBTq9VmODANvrFGBYp7bZjMFMBA0umXpOCaCyNmrd\nSlDHPD4rAgMBAAECggEAEyklSH1DkKeka0TjSqYhew61aUMVfRcajcfaITtQXaDS\nZaK2rRpnPokMJ8HcD5AXjh/NXO322T8M/JCYnzQP+F5edN5lV1rAQn7cEPyWvZqf\nHOGVeHJutJ8L5KEcdKaelJzDbpy0LV0cX8GUeZmsrlYSRGv61UHKwLXsqoaYRkYi\nOgecc8tQOXK69guC2aDfEraTmoXsZzm4kB6wL5ulVZHviS2NTHo6OqymRIrFy4rX\nrnhmdQ0R2vz0OeC8nlbB33Pkftm/fQb8hYCl7EJDzkB2qa4wq2HJWKraZhgF4f98\ncQCt5jSQgUZzpO0//bvz9WuBlTxNIu5ShKXv73N9cQKBgQD/tTtbwx0fnNQOkKih\nR++dkrYXC3XlNQfV01wGJ2jdI/g9QOKSAEdPx8nmpTnMO0guU9sz60VciNO6e3a6\n2fjcMQIyKZn2xTXZr8fTjDu+bOC99UpcEPjjM2z8nS6eCPT5C+i99HIE5Rh9sXOl\n0jcg35K6p253625lB28R57JK2wKBgQDVwxrz+ZaynxpAuS0BRJaq2TU4NY4XAs0X\nJz3Bbj4sK/Mo99NfxNKPhEn/6I5LNXNDoHCCOx2kFh8tDUwAz8wcePpsr7qPLv4q\n8TNryeVv22ZD8kNyQI6F3MWBjcMrmBtnCMAxdG8XyvtNLYs1A2tNKJPVIQV0csta\n3sC0M98y8QKBgCzSt/T93r0L4KAs+2JKGdalQQYJHEFxak4xHpB1mAwrofgax5yQ\nL+/sNZgYnmkOezijumj/dMkjsvmdatKWIul2LcxdPn/jUe02wvByRIa8zyh9Nuus\njfRFr3UYmHNbXpXJYKLrlpEFF6Xw1TTcBI3eovnVH6glvNQ42V9qHfbBAoGBAKuO\nQzJtLFG8uQAa3ZC38Ee7vSeYa6nyGJEtcDWueX1P5H4Lr3ub5fVCkXUtug2IHzK2\nL7WFJjvLeUfZ9RZtrv1m5myV+B7z8w6Zt9AZH+dO6Ns9Mn4ea4PpdCWOlYWGNO/T\nKRRHwuUQhfEhzShFzzcEiuiw8MTNYIFUZsn5G3exAoGAcYFfzu2j+w1q6qFA9HX3\n9XAFK5Qn1k8kaKpF4BtpHC/EE6V1vM2NToF9BAdzl+vvsFSaFopY9eYVZEJE3Apf\nraK9SOBuLmfOVxpe0I8YjBQlDcsKreqR0VB69A0OdGm8hvP/4WsJXWsfpWe2m5Vg\n8Sx/phQhXeQr8mYEhFx3WpI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nskdc@ortima-fcc03.iam.gserviceaccount.com",
+  "client_id": "115480518274089227898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nskdc%40ortima-fcc03.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
